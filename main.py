@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.8
+#!/usr/bin/env python3
 
 
 # Press ⌃R to execute it or replace it with your code.
